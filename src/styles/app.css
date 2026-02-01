@@ -175,12 +175,15 @@ body {
   border-top: 1px solid var(--panel-border);
   padding-top: 16px;
   padding-bottom: 80px;
+  align-items: center;
+  text-align: center;
 }
 
 .footer-links {
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .footer-links a {
