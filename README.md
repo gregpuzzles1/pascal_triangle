@@ -16,3 +16,7 @@ This project deploys to GitHub Pages via GitHub Actions from the `main` branch o
 ## Configuration
 
 Footer links are configured in `src/lib/links.ts`. Update the repository and issue URLs there if needed.
+
+## Deepwiki page
+
+- https://deepwiki.com/gregpuzzles1/pascal_triangle
